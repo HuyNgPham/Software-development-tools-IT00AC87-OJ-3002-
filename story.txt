@@ -1,2 +1,3 @@
-Exercise 11. Edit the first line in GitHub.
+Greetings from GitHub!
+
 Editted!
