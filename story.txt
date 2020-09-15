@@ -1,2 +1,2 @@
-Changes to bee commited! 
+Changes to be commited! Edit the first line in Git Hub.
 Editted!
